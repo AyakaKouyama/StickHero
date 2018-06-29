@@ -1,0 +1,27 @@
+body
+{
+  background-color: #303038;
+  color: lightgray;
+  font-size: 28px;
+  font-family: 'Merriweather', serif;
+  align-items: center;
+  align-content: center;
+}
+
+#interface
+{
+  width: 900px;
+}
+
+#board
+{
+  float: left;
+  width: 400px;
+  height: 600px;
+  background-color: white;
+  margin-left: 50px;
+  margin-top: 50px;
+  border: 10px solid gray;
+  border-radius: 3px;
+  align-content: center;
+}
