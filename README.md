@@ -1,2 +1,2 @@
 # StickHero
-Game inspired by mobile game Stick Hero made using 5p.js 
+Game inspired by mobile game Stick Here. Made using 5p.js 
